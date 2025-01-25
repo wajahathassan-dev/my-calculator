@@ -1,0 +1,22 @@
+.history {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 15px;
+    background-color: grey;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.history h2 {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.history p {
+    background-color: rgb(29, 29, 29);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+}
